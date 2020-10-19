@@ -24,7 +24,7 @@ post "/restaurants" do
 end
 
 # HTTP Verbs
-# GET
+# GET to get data
 # POST to add data
 # PUT/PATCH update
 # DELETE 
